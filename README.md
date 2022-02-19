@@ -17,3 +17,13 @@ Applying on Internet of Things `IoT`.
 4- Install Master of Things Application `MoT`.<br/>
 5- Log In Master of Things Platform.<br/>
 
+## References
+ - [Master of Things Platform](https://learning.masterofthings.com/login.html)
+ - [Master of Things Application](https://play.google.com/store/apps/details?id=com.spimesenselabs.accelemotorsensor)
+ - [JavaScreipt Documentation](https://www.w3schools.com/js/js_intro.asp)
+ - [SQL Statement Queries Documentation](https://docs.microsoft.com/en-us/sql/t-sql/queries/queries?view=sql-server-ver15)
+
+### Copyrights
+- Kareem Saeed.
+- SpimeSense Lab Company.
+- Information Technology Institute.
