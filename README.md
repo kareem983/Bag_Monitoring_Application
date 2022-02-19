@@ -3,6 +3,10 @@
 Bag Monitoring Application enable the user to monitor his bag in each place using map detection and the status of opening or closing the bag using Two (GPS, Light) sensors.
 Applying on Internet of Things `IoT`.
 
+### Bag History places Overview
+![11](https://user-images.githubusercontent.com/52586356/154810251-bed499b2-44c8-4fc7-b925-27819a2857bc.png)
+
+
 ## Features
 - The App detects the Bag place on Google Map using The GPS Sensor.
 - The App detects the Bag Status that is `opend` or `closed` using The Light Sensor.
@@ -142,5 +146,5 @@ Applying on Internet of Things `IoT`.
 
 ### Copyrights
 - Kareem Saeed.
-- SpimeSense Lab Company.
+- SpimeSenseLabs Company.
 - Information Technology Institute.
